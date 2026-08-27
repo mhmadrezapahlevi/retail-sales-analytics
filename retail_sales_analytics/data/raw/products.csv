@@ -1,0 +1,16 @@
+product_id,product_name,category,unit_price,unit_cost
+P001,Minyak Goreng 1L,Sembako,18500,15800
+P002,Beras Premium 5kg,Sembako,68000,60500
+P003,Gula Pasir 1kg,Sembako,15500,13200
+P004,Mie Instan Goreng,Makanan Instan,3200,2450
+P005,Mie Instan Kuah,Makanan Instan,3000,2300
+P006,Kopi Sachet Renceng,Minuman,9500,7100
+P007,Teh Celup Box,Minuman,12500,9600
+P008,Susu UHT 1L,Minuman,19500,16400
+P009,Sabun Mandi Batang,Perawatan,3800,2900
+P010,Shampoo Sachet Renceng,Perawatan,9800,7500
+P011,Pasta Gigi 190g,Perawatan,11500,8900
+P012,Deterjen Bubuk 800g,Rumah Tangga,16500,13100
+P013,Pewangi Pakaian 900ml,Rumah Tangga,13800,10600
+P014,Air Mineral Galon,Minuman,20000,15500
+P015,Biskuit Kaleng,Makanan Ringan,28500,22000

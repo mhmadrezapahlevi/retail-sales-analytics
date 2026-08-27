@@ -1,0 +1,501 @@
+customer_id,customer_name,segment,region,city,join_date
+CUST0001,UD Prasasta,Online Reseller,Jawa Timur,Surabaya,2025-07-27
+CUST0002,Perum Irawan,Mini Market,Banten,Tangerang,2024-04-27
+CUST0003,PT Iswahyudi,Retail Store,Jawa Barat,Bogor,2025-06-03
+CUST0004,Perum Napitupulu,Wholesaler,Jawa Barat,Bekasi,2024-04-22
+CUST0005,CV Hassanah Rahmawati Tbk,Supermarket,DKI Jakarta,Jakarta Selatan,2025-10-19
+CUST0006,CV Anggraini,Online Reseller,Jawa Barat,Bekasi,2026-01-29
+CUST0007,CV Sirait Jailani,Retail Store,Sumatera Utara,Medan,2024-09-02
+CUST0008,UD Situmorang,Retail Store,Jawa Barat,Cirebon,2023-12-06
+CUST0009,PD Nasyiah,Mini Market,Jawa Tengah,Semarang,2025-06-18
+CUST0010,PT Puspasari Sihombing Tbk,Retail Store,Jawa Timur,Kediri,2024-01-10
+CUST0011,PT Wijayanti,Retail Store,DKI Jakarta,Jakarta Pusat,2025-05-20
+CUST0012,PT Pradipta (Persero) Tbk,Retail Store,Jawa Tengah,Semarang,2024-05-02
+CUST0013,UD Marpaung Uwais Tbk,Wholesaler,Jawa Timur,Surabaya,2024-10-16
+CUST0014,PT Sudiati (Persero) Tbk,Mini Market,Jawa Barat,Bekasi,2024-04-12
+CUST0015,CV Hariyah Wibowo,Retail Store,DKI Jakarta,Jakarta Selatan,2025-04-02
+CUST0016,UD Hakim Pradana,Retail Store,DKI Jakarta,Jakarta Pusat,2024-06-17
+CUST0017,PD Santoso (Persero) Tbk,Online Reseller,Jawa Barat,Cirebon,2026-02-11
+CUST0018,CV Yolanda Tbk,Wholesaler,Bali,Denpasar,2024-04-14
+CUST0019,CV Saptono Mandala (Persero) Tbk,Retail Store,Jawa Tengah,Tegal,2024-11-02
+CUST0020,Perum Aryani Tbk,Mini Market,DKI Jakarta,Jakarta Selatan,2025-11-19
+CUST0021,Perum Lailasari Iswahyudi,Mini Market,Jawa Barat,Depok,2024-09-26
+CUST0022,CV Utami,Online Reseller,Jawa Barat,Cirebon,2025-12-01
+CUST0023,Perum Haryanto Winarno Tbk,Supermarket,Jawa Tengah,Magelang,2024-02-18
+CUST0024,Perum Ramadan Puspasari (Persero) Tbk,Mini Market,Jawa Tengah,Semarang,2025-06-09
+CUST0025,Perum Santoso,Retail Store,DKI Jakarta,Jakarta Selatan,2025-09-09
+CUST0026,PT Sihombing Tbk,Wholesaler,Bali,Gianyar,2025-12-15
+CUST0027,UD Mardhiyah,Wholesaler,Sulawesi Selatan,Parepare,2024-02-16
+CUST0028,UD Uyainah,Online Reseller,DKI Jakarta,Jakarta Timur,2025-12-08
+CUST0029,CV Wahyudin Marpaung,Retail Store,Jawa Barat,Bekasi,2025-03-04
+CUST0030,Perum Sinaga,Retail Store,Jawa Barat,Bekasi,2025-04-08
+CUST0031,UD Samosir,Retail Store,Jawa Timur,Sidoarjo,2025-02-12
+CUST0032,Perum Hutapea Hutasoit,Retail Store,Sumatera Utara,Medan,2024-05-15
+CUST0033,Perum Mahendra,Mini Market,Jawa Tengah,Semarang,2025-11-05
+CUST0034,Perum Marbun Saptono Tbk,Wholesaler,Jawa Barat,Depok,2024-01-14
+CUST0035,UD Wacana Winarsih,Online Reseller,Jawa Barat,Bandung,2026-07-17
+CUST0036,Perum Hartati Lazuardi (Persero) Tbk,Retail Store,Banten,Serang,2025-08-07
+CUST0037,PT Rahmawati (Persero) Tbk,Wholesaler,Jawa Barat,Bogor,2024-04-29
+CUST0038,PT Usamah,Supermarket,Banten,Cilegon,2025-06-01
+CUST0039,PT Sitompul,Retail Store,Banten,Serang,2023-10-30
+CUST0040,UD Winarsih Laksita,Retail Store,Jawa Tengah,Semarang,2023-11-12
+CUST0041,Perum Permata Kusmawati,Mini Market,Sumatera Utara,Binjai,2024-04-17
+CUST0042,PD Nainggolan Kuswoyo (Persero) Tbk,Retail Store,Jawa Tengah,Semarang,2024-05-19
+CUST0043,PD Zulkarnain Tbk,Retail Store,Jawa Tengah,Tegal,2025-08-17
+CUST0044,PT Halim,Mini Market,Banten,Tangerang,2026-03-29
+CUST0045,PT Prayoga (Persero) Tbk,Mini Market,Sulawesi Selatan,Parepare,2024-11-09
+CUST0046,CV Anggraini Najmudin Tbk,Supermarket,Jawa Barat,Cirebon,2024-03-22
+CUST0047,PD Pudjiastuti,Mini Market,Banten,Serang,2025-01-14
+CUST0048,PT Prakasa,Mini Market,Banten,Cilegon,2023-12-12
+CUST0049,PD Prabowo Wacana (Persero) Tbk,Mini Market,DKI Jakarta,Jakarta Selatan,2024-02-25
+CUST0050,PD Saptono,Retail Store,Jawa Barat,Bandung,2024-02-23
+CUST0051,UD Anggraini Puspita Tbk,Mini Market,Jawa Barat,Bandung,2026-06-06
+CUST0052,CV Hakim (Persero) Tbk,Mini Market,Jawa Tengah,Solo,2024-02-12
+CUST0053,PT Padmasari,Retail Store,Sulawesi Selatan,Parepare,2025-11-23
+CUST0054,PT Melani Hutapea,Supermarket,Jawa Timur,Surabaya,2025-01-30
+CUST0055,Perum Hidayat,Retail Store,Jawa Tengah,Solo,2026-03-16
+CUST0056,PD Lazuardi Purnawati,Retail Store,Jawa Tengah,Semarang,2025-09-04
+CUST0057,Perum Hutapea,Wholesaler,Sulawesi Selatan,Parepare,2024-05-22
+CUST0058,UD Putra Tbk,Wholesaler,DKI Jakarta,Jakarta Timur,2024-11-28
+CUST0059,CV Winarsih Yuliarti Tbk,Retail Store,Sumatera Utara,Binjai,2024-05-14
+CUST0060,PT Haryanti,Mini Market,Sulawesi Selatan,Parepare,2025-01-08
+CUST0061,PT Nasyiah,Wholesaler,Sumatera Utara,Medan,2025-07-07
+CUST0062,CV Tampubolon (Persero) Tbk,Retail Store,Jawa Tengah,Magelang,2024-04-16
+CUST0063,UD Manullang Tbk,Mini Market,Jawa Tengah,Magelang,2026-04-15
+CUST0064,Perum Yolanda (Persero) Tbk,Wholesaler,Sumatera Utara,Medan,2026-02-24
+CUST0065,PT Mansur Tbk,Mini Market,Jawa Barat,Bogor,2025-08-27
+CUST0066,Perum Mangunsong,Retail Store,Jawa Timur,Surabaya,2023-12-31
+CUST0067,UD Putra Usada,Retail Store,Jawa Barat,Cirebon,2024-06-20
+CUST0068,UD Habibi Iswahyudi Tbk,Retail Store,Sulawesi Selatan,Makassar,2026-03-17
+CUST0069,PT Sitorus,Supermarket,Jawa Timur,,2026-02-20
+CUST0070,CV Handayani Tbk,Online Reseller,Jawa Timur,Malang,2025-12-18
+CUST0071,PT Maryadi,Retail Store,Bali,Gianyar,2025-05-02
+CUST0072,Perum Puspasari (Persero) Tbk,Retail Store,Jawa Timur,Kediri,2025-04-15
+CUST0073,UD Utama,Retail Store,Jawa Tengah,Magelang,2024-12-09
+CUST0074,UD Pranowo,Mini Market,DKI Jakarta,,2026-05-07
+CUST0075,UD Purwanti,Retail Store,Jawa Barat,Bogor,2025-09-11
+CUST0076,Perum Mangunsong Prakasa (Persero) Tbk,Retail Store,Sulawesi Selatan,Makassar,2026-04-21
+CUST0077,PD Dongoran Nugroho,Mini Market,Jawa Barat,Bekasi,2026-07-30
+CUST0078,PD Winarsih (Persero) Tbk,Retail Store,Bali,Denpasar,2025-11-10
+CUST0079,PD Firgantoro,Supermarket,DKI Jakarta,Jakarta Timur,2024-06-14
+CUST0080,CV Haryanti Tampubolon,Supermarket,Jawa Tengah,Tegal,2026-03-24
+CUST0081,CV Dongoran Wahyuni,Mini Market,Jawa Timur,Sidoarjo,2024-07-26
+CUST0082,UD Hidayat Tbk,Mini Market,DKI Jakarta,Jakarta Pusat,2024-03-25
+CUST0083,Perum Sitompul Dabukke (Persero) Tbk,Wholesaler,Jawa Barat,Bekasi,2024-09-14
+CUST0084,CV Prastuti Tbk,Retail Store,Jawa Tengah,Magelang,2026-04-13
+CUST0085,UD Sihotang Fujiati (Persero) Tbk,Mini Market,Jawa Barat,Bekasi,2023-10-07
+CUST0086,UD Gunawan Fujiati,Retail Store,DKI Jakarta,Jakarta Barat,2024-10-21
+CUST0087,UD Astuti Hidayat,Retail Store,Jawa Timur,Kediri,2023-08-28
+CUST0088,Perum Sihotang (Persero) Tbk,Retail Store,DKI Jakarta,Jakarta Barat,2026-07-01
+CUST0089,Perum Saragih Tbk,Retail Store,DKI Jakarta,Jakarta Selatan,2025-10-23
+CUST0090,Perum Mahendra (Persero) Tbk,Retail Store,Sulawesi Selatan,Parepare,2024-08-18
+CUST0091,CV Susanti Purnawati Tbk,Retail Store,Jawa Tengah,Solo,2024-11-29
+CUST0092,UD Suwarno,Wholesaler,Sulawesi Selatan,Makassar,2024-11-13
+CUST0093,PD Handayani Tbk,Supermarket,Jawa Tengah,Magelang,2024-04-13
+CUST0094,CV Wahyuni Hutasoit Tbk,Mini Market,Sumatera Utara,Binjai,2025-09-04
+CUST0095,PT Prakasa Tbk,Retail Store,DKI Jakarta,Jakarta Barat,2025-03-13
+CUST0096,CV Dongoran Gunawan,Wholesaler,Jawa Barat,Bogor,2024-04-28
+CUST0097,Perum Hidayanto Hasanah Tbk,Mini Market,Sulawesi Selatan,Makassar,2024-05-21
+CUST0098,PD Lailasari Wacana,Retail Store,Jawa Tengah,Solo,2026-04-23
+CUST0099,PT Anggraini,Wholesaler,Banten,Cilegon,2024-05-20
+CUST0100,PT Puspita Prayoga (Persero) Tbk,Wholesaler,Sulawesi Selatan,Parepare,2024-04-22
+CUST0101,Perum Purwanti Riyanti Tbk,Retail Store,DKI Jakarta,Jakarta Pusat,2025-01-07
+CUST0102,Perum Mayasari Aryani Tbk,Wholesaler,Jawa Barat,Bandung,2026-07-02
+CUST0103,PD Rajata Prayoga Tbk,Retail Store,DKI Jakarta,Jakarta Pusat,2026-05-05
+CUST0104,CV Saefullah Farida (Persero) Tbk,Supermarket,Jawa Barat,Bekasi,2025-12-12
+CUST0105,UD Sitorus Simanjuntak,Retail Store,Jawa Barat,,2025-10-16
+CUST0106,CV Maryadi,Supermarket,DKI Jakarta,Jakarta Barat,2026-04-30
+CUST0107,CV Haryanto Agustina,Retail Store,DKI Jakarta,Jakarta Pusat,2024-05-06
+CUST0108,PD Halim Putra Tbk,Retail Store,Banten,Serang,2024-11-15
+CUST0109,Perum Wibowo,Supermarket,Jawa Tengah,Tegal,2024-10-26
+CUST0110,UD Wibisono Tbk,Wholesaler,DKI Jakarta,Jakarta Barat,2025-01-30
+CUST0111,PD Prasetya Saputra,Mini Market,DKI Jakarta,Jakarta Timur,2025-04-07
+CUST0112,PD Sirait,Retail Store,Jawa Barat,Cirebon,2024-12-16
+CUST0113,CV Hastuti Mahendra (Persero) Tbk,Retail Store,Jawa Tengah,Semarang,2025-08-28
+CUST0114,PT Yuniar,Retail Store,Bali,Denpasar,2026-05-16
+CUST0115,CV Hardiansyah Rajata Tbk,Mini Market,Sulawesi Selatan,Parepare,2024-12-08
+CUST0116,UD Sirait Wibowo Tbk,Mini Market,Banten,Cilegon,2024-08-19
+CUST0117,UD Hutapea Halimah (Persero) Tbk,Mini Market,DKI Jakarta,Jakarta Timur,2025-11-27
+CUST0118,UD Prasetyo,Supermarket,Jawa Barat,Bandung,2025-11-24
+CUST0119,PT Prayoga,Retail Store,Jawa Tengah,Magelang,2025-08-07
+CUST0120,Perum Mangunsong,Retail Store,DKI Jakarta,Jakarta Barat,2024-04-01
+CUST0121,PT Pratiwi Pratama Tbk,Online Reseller,Sulawesi Selatan,Makassar,2024-05-14
+CUST0122,CV Sudiati (Persero) Tbk,Retail Store,Sulawesi Selatan,Parepare,2025-09-30
+CUST0123,UD Kurniawan Prastuti,Online Reseller,Jawa Barat,Bandung,2025-12-25
+CUST0124,Perum Wastuti Tbk,Online Reseller,Jawa Timur,Sidoarjo,2023-09-24
+CUST0125,PT Rahayu Utami,Wholesaler,Bali,,2024-11-03
+CUST0126,Perum Lazuardi (Persero) Tbk,Retail Store,Jawa Tengah,Semarang,2024-05-18
+CUST0127,UD Hidayat Mayasari Tbk,Retail Store,Sumatera Utara,Binjai,2024-09-10
+CUST0128,PD Kurniawan Astuti Tbk,Mini Market,Jawa Barat,Cirebon,2023-09-09
+CUST0129,CV Fujiati Nugroho Tbk,Supermarket,Sulawesi Selatan,Makassar,2025-07-22
+CUST0130,PD Fujiati Rahayu Tbk,Retail Store,DKI Jakarta,Jakarta Selatan,2025-07-01
+CUST0131,PT Setiawan Hartati,Online Reseller,DKI Jakarta,Jakarta Timur,2024-08-13
+CUST0132,Perum Suryatmi Winarsih Tbk,Mini Market,Jawa Barat,Bekasi,2024-05-20
+CUST0133,UD Najmudin Laksita (Persero) Tbk,Supermarket,Sumatera Utara,Medan,2024-08-29
+CUST0134,UD Setiawan Tbk,Supermarket,DKI Jakarta,Jakarta Timur,2024-09-18
+CUST0135,PT Permadi Wasita,Retail Store,Jawa Tengah,Tegal,2025-04-26
+CUST0136,PD Yuliarti Lestari,Wholesaler,Sumatera Utara,Medan,2025-02-11
+CUST0137,PT Sihombing,Online Reseller,Sumatera Utara,Medan,2024-12-29
+CUST0138,UD Wijayanti Prastuti,Mini Market,Jawa Timur,Sidoarjo,2024-04-25
+CUST0139,PD Pudjiastuti Tbk,Mini Market,Banten,Serang,2024-10-04
+CUST0140,UD Samosir Ramadan (Persero) Tbk,Wholesaler,Banten,Tangerang,2024-09-15
+CUST0141,UD Lazuardi Nasyiah,Retail Store,Sulawesi Selatan,Makassar,2024-01-06
+CUST0142,CV Pratama Laksmiwati,Retail Store,Jawa Timur,Malang,2026-07-03
+CUST0143,PT Nababan Tbk,Retail Store,DKI Jakarta,Jakarta Pusat,2024-06-24
+CUST0144,UD Budiman Nasyidah,Mini Market,Jawa Timur,Surabaya,2024-05-02
+CUST0145,PT Puspasari,Mini Market,Jawa Tengah,Tegal,2024-01-12
+CUST0146,PD Jailani Budiman,Retail Store,Jawa Barat,Bandung,2024-07-11
+CUST0147,PD Farida Siregar (Persero) Tbk,Retail Store,Sumatera Utara,Medan,2025-05-16
+CUST0148,PD Latupono (Persero) Tbk,Mini Market,Jawa Barat,Bekasi,2026-07-19
+CUST0149,Perum Usamah,Retail Store,Banten,Cilegon,2024-11-07
+CUST0150,CV Pratiwi Sihombing,Retail Store,DKI Jakarta,Jakarta Barat,2025-09-16
+CUST0151,PT Puspita Agustina,Mini Market,Jawa Barat,Cirebon,2023-11-28
+CUST0152,Perum Wibowo Hartati,Mini Market,DKI Jakarta,Jakarta Selatan,2025-06-20
+CUST0153,Perum Aryani Tbk,Online Reseller,Banten,Serang,2026-05-17
+CUST0154,Perum Januar,Retail Store,Jawa Timur,Kediri,2025-05-10
+CUST0155,CV Saptono Wijayanti,Retail Store,Banten,Tangerang,2026-06-29
+CUST0156,CV Puspasari Hutagalung,Retail Store,Jawa Timur,,2023-11-23
+CUST0157,PD Riyanti Halimah Tbk,Online Reseller,Jawa Barat,Bogor,2024-02-14
+CUST0158,UD Hasanah (Persero) Tbk,Supermarket,Sumatera Utara,Binjai,2023-10-01
+CUST0159,Perum Wijayanti (Persero) Tbk,Retail Store,Jawa Timur,Sidoarjo,2025-09-17
+CUST0160,CV Santoso Megantara,Retail Store,Jawa Barat,Depok,2024-12-04
+CUST0161,UD Riyanti Purnawati,Supermarket,DKI Jakarta,Jakarta Barat,2023-11-13
+CUST0162,PT Hastuti Sihombing Tbk,Retail Store,DKI Jakarta,Jakarta Pusat,2026-05-31
+CUST0163,PD Hutapea Rahimah (Persero) Tbk,Supermarket,Bali,Denpasar,2026-06-24
+CUST0164,Perum Ramadan (Persero) Tbk,Mini Market,DKI Jakarta,Jakarta Selatan,2026-04-26
+CUST0165,UD Permata,Retail Store,Jawa Timur,Surabaya,2023-12-05
+CUST0166,PD Maryati Yulianti,Supermarket,Jawa Tengah,Magelang,2023-10-10
+CUST0167,CV Padmasari Tbk,Retail Store,Jawa Barat,Bandung,2024-12-23
+CUST0168,PT Halimah Tampubolon Tbk,Retail Store,Jawa Barat,Cirebon,2025-07-22
+CUST0169,CV Sitompul,Supermarket,Sumatera Utara,Medan,2024-08-25
+CUST0170,UD Wijayanti Wacana (Persero) Tbk,Retail Store,Jawa Timur,Malang,2024-11-19
+CUST0171,UD Sinaga (Persero) Tbk,Mini Market,Jawa Timur,Surabaya,2025-01-06
+CUST0172,Perum Adriansyah Wahyuni Tbk,Mini Market,Jawa Barat,Bandung,2026-07-24
+CUST0173,Perum Tarihoran Oktaviani,Mini Market,Jawa Timur,Surabaya,2024-11-21
+CUST0174,PT Putra Santoso (Persero) Tbk,Retail Store,DKI Jakarta,Jakarta Selatan,2025-12-02
+CUST0175,PD Maheswara Dabukke (Persero) Tbk,Mini Market,Jawa Timur,Surabaya,2026-06-07
+CUST0176,Perum Budiman Tbk,Wholesaler,Jawa Timur,Surabaya,2025-10-12
+CUST0177,PD Lazuardi,Retail Store,DKI Jakarta,Jakarta Timur,2023-12-07
+CUST0178,PD Siregar Melani,Mini Market,Jawa Barat,Bandung,2025-08-05
+CUST0179,PD Halimah Prasasta Tbk,Mini Market,Jawa Barat,Cirebon,2025-10-07
+CUST0180,CV Rahimah Melani (Persero) Tbk,Mini Market,Sulawesi Selatan,Makassar,2025-04-21
+CUST0181,PD Siregar Tbk,Mini Market,Jawa Timur,Sidoarjo,2026-03-30
+CUST0182,UD Rahmawati Tbk,Mini Market,Jawa Timur,Kediri,2026-02-10
+CUST0183,Perum Laksmiwati Situmorang Tbk,Retail Store,Sulawesi Selatan,Makassar,2026-03-31
+CUST0184,PD Sinaga Nainggolan (Persero) Tbk,Online Reseller,Bali,Denpasar,2025-04-22
+CUST0185,PD Gunawan Simanjuntak,Retail Store,Jawa Barat,Cirebon,2025-05-14
+CUST0186,PD Wijayanti Yulianti (Persero) Tbk,Retail Store,Jawa Barat,Cirebon,2025-11-19
+CUST0187,CV Mardhiyah,Supermarket,Jawa Barat,Depok,2025-02-19
+CUST0188,PT Farida (Persero) Tbk,Retail Store,Jawa Barat,Bekasi,2026-07-19
+CUST0189,PT Megantara Wasita (Persero) Tbk,Retail Store,Sumatera Utara,Binjai,2025-03-24
+CUST0190,UD Oktaviani Tbk,Retail Store,Sumatera Utara,Binjai,2023-11-16
+CUST0191,Perum Wibowo Tbk,Supermarket,Jawa Barat,Bekasi,2025-08-07
+CUST0192,Perum Firgantoro Safitri (Persero) Tbk,Wholesaler,DKI Jakarta,Jakarta Pusat,2025-07-13
+CUST0193,CV Iswahyudi Tbk,Wholesaler,Banten,Tangerang,2024-05-10
+CUST0194,PD Marbun,Retail Store,Jawa Tengah,Tegal,2026-08-02
+CUST0195,PT Simbolon,Wholesaler,Banten,Serang,2025-09-24
+CUST0196,UD Wahyudin Tbk,Mini Market,Bali,Gianyar,2026-01-14
+CUST0197,Perum Zulaika Najmudin (Persero) Tbk,Wholesaler,Jawa Timur,Kediri,2024-02-02
+CUST0198,Perum Zulaika Permadi Tbk,Online Reseller,Jawa Tengah,Tegal,2024-03-05
+CUST0199,CV Hariyah Uyainah,Mini Market,Sumatera Utara,Medan,2026-05-22
+CUST0200,PT Hastuti Tbk,Supermarket,Banten,Cilegon,2024-05-31
+CUST0201,PT Handayani Situmorang,Online Reseller,Jawa Barat,Bandung,2025-09-06
+CUST0202,PD Ramadan Tbk,Wholesaler,Jawa Timur,Surabaya,2026-08-12
+CUST0203,PD Laksmiwati Kurniawan,Wholesaler,Jawa Tengah,Tegal,2026-03-09
+CUST0204,Perum Sihombing Tbk,Retail Store,Jawa Timur,Sidoarjo,2024-05-12
+CUST0205,UD Anggriawan Pratiwi (Persero) Tbk,Retail Store,Sulawesi Selatan,Makassar,2023-09-20
+CUST0206,UD Pradana Sudiati Tbk,Online Reseller,Jawa Tengah,Solo,2026-05-20
+CUST0207,Perum Ramadan Wastuti,Mini Market,Bali,Denpasar,2024-04-22
+CUST0208,PT Utami Yuliarti,Mini Market,DKI Jakarta,Jakarta Selatan,2025-12-01
+CUST0209,PT Prastuti Utama (Persero) Tbk,Retail Store,Jawa Tengah,Tegal,2023-10-09
+CUST0210,UD Agustina (Persero) Tbk,Supermarket,DKI Jakarta,Jakarta Selatan,2023-12-03
+CUST0211,Perum Mardhiyah Tbk,Wholesaler,Banten,Serang,2024-04-02
+CUST0212,PD Sihombing Tbk,Mini Market,Jawa Barat,Bekasi,2026-02-21
+CUST0213,PT Megantara Prasetyo Tbk,Mini Market,Jawa Barat,Bogor,2026-01-23
+CUST0214,PT Widodo (Persero) Tbk,Wholesaler,Jawa Timur,Kediri,2026-07-21
+CUST0215,PD Uwais,Retail Store,Jawa Tengah,Solo,2024-06-11
+CUST0216,Perum Wibowo Tbk,Supermarket,Jawa Barat,Bandung,2025-09-01
+CUST0217,PD Dongoran Safitri,Retail Store,DKI Jakarta,Jakarta Barat,2023-12-23
+CUST0218,Perum Prasetya (Persero) Tbk,Supermarket,Jawa Barat,Cirebon,2026-04-21
+CUST0219,UD Yulianti Wasita (Persero) Tbk,Wholesaler,Jawa Barat,Bandung,2025-07-22
+CUST0220,UD Lailasari,Retail Store,Banten,Tangerang,2024-01-27
+CUST0221,Perum Mansur Wibisono,Online Reseller,Jawa Barat,Cirebon,2024-01-01
+CUST0222,Perum Mangunsong Agustina (Persero) Tbk,Retail Store,Jawa Timur,Surabaya,2025-01-04
+CUST0223,UD Firmansyah Uwais (Persero) Tbk,Online Reseller,Sumatera Utara,Medan,2026-02-24
+CUST0224,UD Januar Uwais,Supermarket,Bali,Denpasar,2024-12-24
+CUST0225,PT Widodo Tbk,Retail Store,Jawa Timur,Malang,2025-04-14
+CUST0226,PD Iswahyudi,Mini Market,Banten,Serang,2024-03-21
+CUST0227,PT Sitorus,Online Reseller,Jawa Timur,Kediri,2025-08-21
+CUST0228,Perum Putra Hidayat,Mini Market,Jawa Barat,Depok,2024-05-19
+CUST0229,Perum Pratama Pradipta,Mini Market,Jawa Barat,Bekasi,2026-02-20
+CUST0230,Perum Adriansyah Saefullah,Retail Store,Jawa Barat,Depok,2024-08-20
+CUST0231,CV Namaga Ramadan,Mini Market,Jawa Barat,Bandung,2026-03-23
+CUST0232,PT Mustofa,Mini Market,Banten,Tangerang,2026-01-17
+CUST0233,Perum Sinaga Budiyanto,Retail Store,Bali,Gianyar,2023-09-12
+CUST0234,CV Andriani,Wholesaler,Jawa Tengah,Semarang,2024-03-04
+CUST0235,PD Hassanah,Online Reseller,Jawa Tengah,Tegal,2025-03-25
+CUST0236,PD Mardhiyah,Online Reseller,Jawa Barat,Bogor,2025-12-25
+CUST0237,Perum Sihombing,Wholesaler,Jawa Barat,Depok,2024-04-25
+CUST0238,PT Kuswandari,Online Reseller,DKI Jakarta,Jakarta Timur,2025-01-09
+CUST0239,PT Lestari Handayani (Persero) Tbk,Mini Market,Jawa Barat,Depok,2026-03-11
+CUST0240,Perum Maulana (Persero) Tbk,Mini Market,Bali,Gianyar,2026-05-07
+CUST0241,PD Riyanti Tbk,Supermarket,DKI Jakarta,Jakarta Selatan,2024-01-12
+CUST0242,PT Latupono Yolanda (Persero) Tbk,Mini Market,Jawa Timur,Malang,2025-01-04
+CUST0243,PD Sirait Hasanah,Online Reseller,DKI Jakarta,Jakarta Timur,2024-12-09
+CUST0244,UD Aryani,Retail Store,Jawa Barat,Bekasi,2024-11-05
+CUST0245,UD Mangunsong Tbk,Wholesaler,Bali,Denpasar,2024-08-03
+CUST0246,PT Astuti,Mini Market,Jawa Timur,Surabaya,2023-11-08
+CUST0247,CV Puspita (Persero) Tbk,Retail Store,Jawa Tengah,Magelang,2023-12-10
+CUST0248,PT Zulkarnain Tbk,Retail Store,Jawa Timur,Surabaya,2025-05-30
+CUST0249,PT Suwarno Rahimah Tbk,Retail Store,DKI Jakarta,Jakarta Pusat,2026-04-09
+CUST0250,CV Wahyuni Laksmiwati,Online Reseller,Bali,Gianyar,2024-09-15
+CUST0251,UD Puspita,Mini Market,DKI Jakarta,Jakarta Selatan,2024-04-28
+CUST0252,Perum Prasetyo Tbk,Wholesaler,Jawa Tengah,Semarang,2024-10-02
+CUST0253,Perum Wahyuni,Retail Store,DKI Jakarta,Jakarta Pusat,2026-03-09
+CUST0254,PT Najmudin Tbk,Wholesaler,Sulawesi Selatan,Makassar,2026-02-20
+CUST0255,UD Tampubolon (Persero) Tbk,Supermarket,Sulawesi Selatan,Makassar,2025-10-04
+CUST0256,Perum Wahyuni Wacana,Mini Market,DKI Jakarta,Jakarta Pusat,2024-03-12
+CUST0257,PT Nuraini,Wholesaler,Sulawesi Selatan,Makassar,2023-11-11
+CUST0258,PD Siregar Manullang Tbk,Retail Store,Jawa Barat,Depok,2024-04-18
+CUST0259,Perum Riyanti (Persero) Tbk,Wholesaler,Jawa Timur,Surabaya,2024-08-02
+CUST0260,CV Safitri Hardiansyah,Retail Store,Bali,Denpasar,2026-04-20
+CUST0261,PD Wijayanti Tbk,Retail Store,DKI Jakarta,Jakarta Pusat,2025-09-02
+CUST0262,PD Saputra Pratama (Persero) Tbk,Wholesaler,Bali,Denpasar,2025-02-08
+CUST0263,UD Wastuti,Mini Market,Sumatera Utara,Binjai,2024-09-07
+CUST0264,Perum Widiastuti Samosir (Persero) Tbk,Retail Store,Jawa Timur,Sidoarjo,2025-09-07
+CUST0265,PT Putra,Wholesaler,Jawa Barat,Bogor,2024-04-24
+CUST0266,CV Rajasa Siregar,Online Reseller,Sumatera Utara,Medan,2024-07-22
+CUST0267,PD Astuti,Mini Market,Bali,Gianyar,2024-08-20
+CUST0268,Perum Pradana Mardhiyah Tbk,Online Reseller,Banten,Tangerang,2024-03-06
+CUST0269,PD Budiyanto,Retail Store,Sumatera Utara,Binjai,2023-11-13
+CUST0270,UD Permata,Retail Store,Jawa Timur,Kediri,2025-01-11
+CUST0271,PD Siregar Latupono Tbk,Mini Market,Bali,Denpasar,2024-12-09
+CUST0272,CV Safitri Tbk,Supermarket,Jawa Tengah,Magelang,2023-09-18
+CUST0273,PT Fujiati (Persero) Tbk,Retail Store,DKI Jakarta,Jakarta Barat,2026-02-23
+CUST0274,Perum Hutapea Widodo Tbk,Supermarket,Jawa Barat,Bogor,2024-05-19
+CUST0275,UD Narpati Hutagalung,Wholesaler,DKI Jakarta,Jakarta Pusat,2025-11-20
+CUST0276,Perum Melani,Wholesaler,DKI Jakarta,Jakarta Pusat,2025-03-07
+CUST0277,UD Yuliarti (Persero) Tbk,Mini Market,DKI Jakarta,Jakarta Barat,2024-03-26
+CUST0278,UD Napitupulu Natsir,Mini Market,Sumatera Utara,Medan,2024-05-11
+CUST0279,CV Utami,Retail Store,Jawa Barat,Bandung,2025-06-16
+CUST0280,Perum Yuniar Usada Tbk,Mini Market,Banten,Cilegon,2025-02-18
+CUST0281,CV Farida (Persero) Tbk,Retail Store,Banten,Tangerang,2026-03-30
+CUST0282,UD Rahayu (Persero) Tbk,Retail Store,Jawa Barat,Cirebon,2025-01-21
+CUST0283,UD Hariyah,Mini Market,Jawa Tengah,Magelang,2024-09-15
+CUST0284,UD Suwarno,Mini Market,Jawa Timur,Malang,2025-01-02
+CUST0285,Perum Riyanti,Retail Store,Sulawesi Selatan,Parepare,2023-11-19
+CUST0286,Perum Puspasari Gunarto Tbk,Wholesaler,Jawa Timur,Surabaya,2025-03-04
+CUST0287,UD Suartini Kusmawati,Mini Market,Jawa Timur,Malang,2026-05-18
+CUST0288,PD Jailani,Online Reseller,Sumatera Utara,Binjai,2025-02-25
+CUST0289,PT Mayasari (Persero) Tbk,Online Reseller,Jawa Barat,Bogor,2026-01-31
+CUST0290,PD Novitasari Nurdiyanti (Persero) Tbk,Retail Store,Jawa Timur,Malang,2023-10-08
+CUST0291,PD Wasita Tbk,Online Reseller,Jawa Timur,Kediri,2024-09-28
+CUST0292,UD Haryanto,Retail Store,Jawa Timur,Sidoarjo,2025-09-08
+CUST0293,UD Ramadan Wahyuni (Persero) Tbk,Retail Store,DKI Jakarta,Jakarta Pusat,2024-08-22
+CUST0294,UD Saragih Yolanda,Retail Store,Jawa Barat,Cirebon,2024-08-26
+CUST0295,CV Riyanti Hutasoit Tbk,Retail Store,Jawa Barat,Bogor,2025-09-29
+CUST0296,CV Winarsih (Persero) Tbk,Mini Market,Jawa Barat,Bandung,2025-04-30
+CUST0297,Perum Tarihoran Budiyanto Tbk,Retail Store,Jawa Barat,Bekasi,2025-08-03
+CUST0298,UD Laksita Nababan,Mini Market,Sulawesi Selatan,Parepare,2024-07-30
+CUST0299,CV Hutagalung Sihombing,Retail Store,DKI Jakarta,Jakarta Pusat,2024-05-01
+CUST0300,Perum Namaga,Retail Store,Jawa Barat,Bandung,2026-03-08
+CUST0301,UD Safitri,Retail Store,Jawa Barat,Cirebon,2026-02-26
+CUST0302,CV Marpaung Najmudin (Persero) Tbk,Retail Store,Jawa Barat,Bekasi,2024-01-17
+CUST0303,PD Utama,Mini Market,Jawa Barat,Bogor,2025-10-24
+CUST0304,PD Suryatmi Suryono,Retail Store,Jawa Barat,Bogor,2025-09-05
+CUST0305,CV Nasyidah Permadi Tbk,Supermarket,Jawa Timur,Malang,2025-11-27
+CUST0306,CV Uwais Wastuti Tbk,Wholesaler,Jawa Barat,Bogor,2026-07-19
+CUST0307,PD Mardhiyah Tbk,Retail Store,DKI Jakarta,Jakarta Selatan,2025-01-13
+CUST0308,Perum Mandala Ramadan,Online Reseller,Sumatera Utara,Binjai,2026-07-20
+CUST0309,UD Puspasari Jailani (Persero) Tbk,Retail Store,Jawa Barat,Cirebon,2023-10-23
+CUST0310,UD Hartati Mulyani,Supermarket,Sumatera Utara,Binjai,2024-07-04
+CUST0311,PT Prasetya Hartati Tbk,Retail Store,Jawa Barat,Bogor,2024-02-04
+CUST0312,PT Widodo Mardhiyah Tbk,Mini Market,Jawa Timur,Surabaya,2026-06-10
+CUST0313,UD Prasetyo,Retail Store,DKI Jakarta,Jakarta Pusat,2024-05-11
+CUST0314,UD Maulana,Supermarket,Jawa Timur,Kediri,2023-09-26
+CUST0315,PD Mandala Tbk,Retail Store,Jawa Barat,Bogor,2024-01-24
+CUST0316,PT Budiyanto,Wholesaler,Banten,Tangerang,2024-12-30
+CUST0317,Perum Sudiati Nuraini,Mini Market,Jawa Timur,Surabaya,2024-06-02
+CUST0318,CV Sihombing (Persero) Tbk,Mini Market,Jawa Barat,Bogor,2024-12-02
+CUST0319,Perum Haryanti Haryanto (Persero) Tbk,Retail Store,DKI Jakarta,Jakarta Selatan,2023-10-18
+CUST0320,Perum Nasyiah Budiyanto (Persero) Tbk,Retail Store,Jawa Tengah,Magelang,2026-02-28
+CUST0321,PD Adriansyah Tbk,Retail Store,Jawa Barat,Bekasi,2025-10-21
+CUST0322,CV Widiastuti Winarsih (Persero) Tbk,Retail Store,Jawa Barat,Depok,2024-05-16
+CUST0323,PT Novitasari (Persero) Tbk,Wholesaler,Jawa Barat,Cirebon,2025-03-22
+CUST0324,PT Usada Wibisono Tbk,Supermarket,DKI Jakarta,Jakarta Barat,2024-10-27
+CUST0325,UD Hidayat,Mini Market,Banten,Cilegon,2024-05-30
+CUST0326,Perum Sitorus,Mini Market,Jawa Barat,Bandung,2024-09-07
+CUST0327,Perum Sirait (Persero) Tbk,Supermarket,DKI Jakarta,Jakarta Pusat,2024-01-20
+CUST0328,PD Usamah Najmudin (Persero) Tbk,Retail Store,Jawa Timur,Surabaya,2026-02-21
+CUST0329,PT Sihombing Pangestu (Persero) Tbk,Retail Store,Jawa Tengah,Solo,2023-11-04
+CUST0330,UD Saragih,Mini Market,DKI Jakarta,Jakarta Pusat,2026-01-09
+CUST0331,UD Firgantoro Yuliarti (Persero) Tbk,Online Reseller,Jawa Tengah,Magelang,2025-03-13
+CUST0332,UD Saputra,Retail Store,DKI Jakarta,Jakarta Selatan,2024-07-05
+CUST0333,PD Wacana Tbk,Retail Store,Jawa Barat,Depok,2024-01-10
+CUST0334,UD Nashiruddin Mandasari Tbk,Retail Store,Jawa Tengah,Solo,2026-05-02
+CUST0335,PT Anggraini (Persero) Tbk,Retail Store,Jawa Barat,Bandung,2024-10-02
+CUST0336,Perum Sihombing Sinaga,Wholesaler,Jawa Barat,Bogor,2024-12-10
+CUST0337,UD Samosir Tbk,Mini Market,Jawa Barat,Bogor,2023-12-17
+CUST0338,CV Handayani Tampubolon Tbk,Online Reseller,Jawa Timur,Surabaya,2025-06-16
+CUST0339,Perum Fujiati Tbk,Retail Store,Jawa Barat,Bogor,2023-10-12
+CUST0340,PT Winarsih,Wholesaler,Bali,Denpasar,2025-07-27
+CUST0341,Perum Wastuti (Persero) Tbk,Retail Store,Sumatera Utara,Medan,2025-07-25
+CUST0342,Perum Wastuti Farida,Supermarket,Jawa Barat,Bandung,2026-07-05
+CUST0343,CV Yuliarti,Mini Market,Sulawesi Selatan,Parepare,2023-10-04
+CUST0344,Perum Firmansyah Suartini (Persero) Tbk,Retail Store,DKI Jakarta,Jakarta Barat,2024-10-01
+CUST0345,UD Handayani (Persero) Tbk,Retail Store,Banten,Cilegon,2025-09-08
+CUST0346,PD Sihotang Tbk,Mini Market,Jawa Tengah,Solo,2025-05-16
+CUST0347,PT Nashiruddin,Retail Store,Jawa Timur,Malang,2024-05-26
+CUST0348,Perum Lazuardi Saptono Tbk,Mini Market,Jawa Barat,Bekasi,2025-02-23
+CUST0349,Perum Suwarno Lestari,Mini Market,Jawa Tengah,Solo,2025-10-05
+CUST0350,PT Hartati Natsir,Mini Market,Jawa Barat,Depok,2024-04-02
+CUST0351,PT Zulaika Simanjuntak Tbk,Retail Store,DKI Jakarta,Jakarta Pusat,2026-05-07
+CUST0352,UD Manullang (Persero) Tbk,Retail Store,Jawa Tengah,Solo,2025-10-11
+CUST0353,PT Pangestu Mandala,Online Reseller,Jawa Barat,Bogor,2026-01-12
+CUST0354,PT Tarihoran Puspasari Tbk,Wholesaler,Jawa Tengah,Tegal,2024-05-12
+CUST0355,Perum Irawan Haryanto,Supermarket,Jawa Tengah,Solo,2025-01-19
+CUST0356,Perum Zulkarnain Wasita (Persero) Tbk,Mini Market,Banten,Serang,2024-07-30
+CUST0357,PT Hartati Tbk,Mini Market,Jawa Timur,Malang,2024-01-11
+CUST0358,CV Puspasari (Persero) Tbk,Online Reseller,Jawa Tengah,Semarang,2025-09-09
+CUST0359,PD Mardhiyah Hakim,Online Reseller,Sumatera Utara,Binjai,2025-12-14
+CUST0360,UD Marbun Marpaung,Supermarket,Jawa Barat,Bandung,2026-02-22
+CUST0361,UD Maryati Suryono,Retail Store,Sulawesi Selatan,Parepare,2024-08-14
+CUST0362,CV Usada Tbk,Supermarket,Jawa Barat,,2026-03-10
+CUST0363,Perum Nasyidah (Persero) Tbk,Wholesaler,DKI Jakarta,Jakarta Selatan,2024-01-11
+CUST0364,Perum Prastuti Mangunsong,Wholesaler,Jawa Barat,Depok,2025-02-27
+CUST0365,Perum Gunarto (Persero) Tbk,Retail Store,Jawa Barat,Bogor,2024-03-01
+CUST0366,CV Pertiwi Tbk,Wholesaler,Jawa Barat,Bogor,2023-11-23
+CUST0367,PD Utami,Mini Market,DKI Jakarta,Jakarta Selatan,2025-07-03
+CUST0368,PD Prasasta Tbk,Wholesaler,Jawa Tengah,Solo,2025-04-15
+CUST0369,PT Manullang,Wholesaler,Jawa Timur,Surabaya,2024-07-17
+CUST0370,PD Putra Siregar (Persero) Tbk,Retail Store,Jawa Timur,Malang,2024-12-20
+CUST0371,UD Wacana (Persero) Tbk,Retail Store,Jawa Timur,Kediri,2024-08-03
+CUST0372,UD Permadi,Mini Market,Banten,Serang,2025-12-06
+CUST0373,PD Prayoga (Persero) Tbk,Wholesaler,Jawa Tengah,Magelang,2025-01-18
+CUST0374,PD Susanti Tbk,Mini Market,Jawa Timur,Surabaya,2023-12-11
+CUST0375,UD Permata Sihotang,Mini Market,Sulawesi Selatan,,2024-05-24
+CUST0376,PD Mulyani Hastuti,Online Reseller,Jawa Barat,Bogor,2024-03-21
+CUST0377,PD Damanik (Persero) Tbk,Retail Store,DKI Jakarta,Jakarta Barat,2025-02-23
+CUST0378,CV Pratama Padmasari Tbk,Wholesaler,Jawa Barat,,2026-06-27
+CUST0379,PD Riyanti Tbk,Mini Market,DKI Jakarta,Jakarta Timur,2023-10-19
+CUST0380,PT Astuti,Wholesaler,Sulawesi Selatan,Makassar,2024-07-04
+CUST0381,UD Waskita Tbk,Retail Store,Jawa Barat,Bandung,2024-01-20
+CUST0382,Perum Purwanti,Supermarket,Jawa Tengah,Magelang,2023-10-15
+CUST0383,PT Winarno Tbk,Mini Market,Jawa Barat,Bekasi,2024-03-27
+CUST0384,Perum Zulaika (Persero) Tbk,Wholesaler,Banten,Cilegon,2025-12-11
+CUST0385,PD Wahyudin,Wholesaler,Jawa Tengah,Magelang,2024-01-14
+CUST0386,Perum Utama (Persero) Tbk,Wholesaler,Jawa Barat,Bandung,2026-01-13
+CUST0387,Perum Gunarto Gunawan (Persero) Tbk,Retail Store,Jawa Barat,Bandung,2024-03-31
+CUST0388,PD Maryati Tbk,Retail Store,Banten,Cilegon,2024-01-24
+CUST0389,UD Suryatmi Simanjuntak,Supermarket,Jawa Tengah,Tegal,2024-02-06
+CUST0390,Perum Sirait Tbk,Mini Market,Banten,Serang,2024-02-20
+CUST0391,PD Budiyanto Tbk,Mini Market,DKI Jakarta,Jakarta Timur,2025-10-11
+CUST0392,PD Padmasari,Retail Store,Jawa Tengah,Tegal,2024-08-23
+CUST0393,Perum Kusmawati,Online Reseller,Jawa Barat,Cirebon,2024-07-28
+CUST0394,PT Padmasari Kuswandari,Mini Market,DKI Jakarta,Jakarta Pusat,2024-06-12
+CUST0395,CV Zulaika Prasasta (Persero) Tbk,Online Reseller,Jawa Timur,,2024-02-29
+CUST0396,CV Budiyanto,Mini Market,Jawa Barat,Cirebon,2025-05-14
+CUST0397,CV Zulkarnain Putra Tbk,Mini Market,Jawa Timur,Malang,2024-12-21
+CUST0398,PT Mandala Maryati (Persero) Tbk,Wholesaler,Jawa Barat,Bogor,2025-02-26
+CUST0399,Perum Waluyo Sihotang (Persero) Tbk,Mini Market,Sulawesi Selatan,Makassar,2025-05-02
+CUST0400,Perum Thamrin Tbk,Online Reseller,DKI Jakarta,Jakarta Barat,2025-01-11
+CUST0401,CV Setiawan Puspita,Retail Store,Banten,Tangerang,2025-06-25
+CUST0402,UD Pranowo Tbk,Mini Market,DKI Jakarta,Jakarta Selatan,2024-07-18
+CUST0403,Perum Saefullah Tbk,Supermarket,Jawa Timur,Sidoarjo,2024-08-08
+CUST0404,PD Situmorang Maulana Tbk,Online Reseller,Sulawesi Selatan,Parepare,2024-01-07
+CUST0405,UD Handayani,Retail Store,Jawa Timur,Surabaya,2023-10-12
+CUST0406,CV Pangestu Nasyiah Tbk,Wholesaler,Bali,Gianyar,2025-08-14
+CUST0407,CV Kurniawan (Persero) Tbk,Online Reseller,Jawa Barat,Cirebon,2026-06-13
+CUST0408,CV Habibi Januar,Mini Market,Sumatera Utara,Binjai,2024-05-18
+CUST0409,PT Zulaika Mandala (Persero) Tbk,Retail Store,DKI Jakarta,Jakarta Pusat,2024-11-21
+CUST0410,PD Yolanda Kusmawati,Retail Store,Jawa Barat,Bogor,2026-07-18
+CUST0411,UD Sinaga Suwarno,Retail Store,Sumatera Utara,Binjai,2025-01-30
+CUST0412,Perum Pradipta,Retail Store,Jawa Tengah,Tegal,2025-08-03
+CUST0413,CV Agustina,Online Reseller,DKI Jakarta,Jakarta Timur,2025-04-03
+CUST0414,PT Widodo Lailasari,Retail Store,Jawa Tengah,Tegal,2026-04-19
+CUST0415,PT Anggriawan Tbk,Mini Market,Banten,Cilegon,2024-03-18
+CUST0416,UD Suryono,Mini Market,Jawa Tengah,Magelang,2025-05-09
+CUST0417,CV Mayasari Hastuti Tbk,Retail Store,Jawa Barat,Cirebon,2025-01-05
+CUST0418,UD Marpaung,Mini Market,Jawa Timur,Malang,2024-03-25
+CUST0419,CV Budiman Tbk,Retail Store,Sulawesi Selatan,Makassar,2025-11-04
+CUST0420,CV Suryatmi Uyainah,Mini Market,DKI Jakarta,Jakarta Barat,2026-01-08
+CUST0421,Perum Simbolon Irawan Tbk,Supermarket,Jawa Barat,Depok,2026-05-05
+CUST0422,CV Kuswandari Sinaga,Online Reseller,Jawa Barat,Bekasi,2025-08-28
+CUST0423,UD Winarno,Mini Market,Jawa Barat,Cirebon,2026-06-16
+CUST0424,UD Sihombing (Persero) Tbk,Online Reseller,Jawa Barat,Cirebon,2024-05-10
+CUST0425,CV Halim (Persero) Tbk,Mini Market,Jawa Timur,Sidoarjo,2024-06-08
+CUST0426,PD Mardhiyah Saragih,Supermarket,Jawa Barat,Depok,2025-01-17
+CUST0427,UD Susanti (Persero) Tbk,Wholesaler,Jawa Barat,Cirebon,2025-09-20
+CUST0428,PD Mangunsong Hasanah,Retail Store,Jawa Barat,Bandung,2024-04-22
+CUST0429,PD Pudjiastuti Tbk,Mini Market,Jawa Barat,Bogor,2025-11-22
+CUST0430,CV Zulaika Riyanti,Retail Store,DKI Jakarta,Jakarta Timur,2025-12-03
+CUST0431,Perum Hassanah,Mini Market,Banten,Tangerang,2026-04-09
+CUST0432,PT Pratiwi (Persero) Tbk,Mini Market,DKI Jakarta,Jakarta Barat,2025-03-27
+CUST0433,Perum Nasyiah Maryadi,Mini Market,Jawa Timur,Sidoarjo,2023-11-02
+CUST0434,PT Zulaika Putra Tbk,Retail Store,Jawa Barat,Depok,2024-02-23
+CUST0435,PT Hasanah Mustofa Tbk,Online Reseller,Sumatera Utara,Binjai,2023-12-04
+CUST0436,Perum Hariyah,Retail Store,Jawa Timur,Kediri,2025-01-08
+CUST0437,PT Widodo Tbk,Mini Market,DKI Jakarta,Jakarta Selatan,2025-09-01
+CUST0438,Perum Hidayanto Gunawan,Retail Store,Jawa Barat,Cirebon,2026-02-06
+CUST0439,Perum Halim,Supermarket,Banten,Serang,2024-12-02
+CUST0440,PD Firmansyah,Retail Store,Jawa Barat,Bekasi,2026-06-15
+CUST0441,CV Yuniar Yuliarti,Supermarket,Jawa Tengah,Semarang,2024-07-06
+CUST0442,PD Hassanah Tbk,Retail Store,Jawa Barat,Bogor,2026-07-17
+CUST0443,UD Lazuardi Nugroho,Retail Store,Banten,Cilegon,2024-10-11
+CUST0444,Perum Mahendra Prasetyo (Persero) Tbk,Retail Store,DKI Jakarta,Jakarta Timur,2026-08-18
+CUST0445,PD Wulandari Tbk,Retail Store,Jawa Barat,Bandung,2025-12-02
+CUST0446,CV Haryanti Situmorang,Wholesaler,Banten,Tangerang,2025-03-31
+CUST0447,PT Firmansyah Wijayanti,Retail Store,Sumatera Utara,Binjai,2024-02-12
+CUST0448,CV Putra,Retail Store,DKI Jakarta,Jakarta Selatan,2024-11-28
+CUST0449,PD Rahimah,Wholesaler,Jawa Tengah,Solo,2023-11-08
+CUST0450,CV Gunawan,Retail Store,Jawa Barat,Bekasi,2025-08-31
+CUST0451,Perum Pratama Hakim,Retail Store,Jawa Barat,,2024-11-09
+CUST0452,CV Permata Tbk,Mini Market,Jawa Barat,Bandung,2024-01-27
+CUST0453,CV Sihombing (Persero) Tbk,Wholesaler,Jawa Timur,Malang,2025-05-20
+CUST0454,PD Salahudin Saefullah,Retail Store,Sumatera Utara,Binjai,2026-08-10
+CUST0455,PD Puspita Lailasari,Retail Store,Jawa Tengah,Semarang,2023-11-01
+CUST0456,PD Novitasari Tbk,Retail Store,DKI Jakarta,Jakarta Barat,2023-10-17
+CUST0457,CV Salahudin Waluyo (Persero) Tbk,Mini Market,DKI Jakarta,Jakarta Barat,2025-09-27
+CUST0458,CV Prasetyo Salahudin (Persero) Tbk,Mini Market,DKI Jakarta,Jakarta Selatan,2025-11-30
+CUST0459,Perum Zulkarnain,Online Reseller,Jawa Tengah,Tegal,2026-01-25
+CUST0460,PD Prasasta Rajasa,Retail Store,Banten,Serang,2026-07-21
+CUST0461,PD Uwais,Mini Market,Sumatera Utara,Binjai,2024-04-05
+CUST0462,PT Santoso Waluyo,Wholesaler,Sulawesi Selatan,Makassar,2023-12-06
+CUST0463,PT Nainggolan,Retail Store,Jawa Timur,Malang,2025-09-02
+CUST0464,PD Pranowo Sitorus,Mini Market,Jawa Tengah,Semarang,2026-01-24
+CUST0465,CV Nainggolan,Retail Store,DKI Jakarta,Jakarta Pusat,2024-07-23
+CUST0466,PD Prasasta,Wholesaler,Jawa Barat,Depok,2026-07-15
+CUST0467,PD Permadi Puspasari,Mini Market,Bali,Denpasar,2025-09-26
+CUST0468,PD Hastuti Tbk,Retail Store,Jawa Barat,Bekasi,2024-08-13
+CUST0469,Perum Mandasari Tbk,Online Reseller,Jawa Barat,Cirebon,2024-07-29
+CUST0470,UD Putra Uwais Tbk,Mini Market,Jawa Barat,Depok,2023-12-12
+CUST0471,CV Budiyanto Rajata,Mini Market,Jawa Tengah,Semarang,2024-11-22
+CUST0472,UD Mangunsong Napitupulu Tbk,Wholesaler,DKI Jakarta,Jakarta Selatan,2025-04-23
+CUST0473,PD Pudjiastuti Yolanda,Retail Store,Jawa Barat,Bandung,2024-05-04
+CUST0474,UD Lestari Tbk,Online Reseller,Jawa Barat,Depok,2026-06-25
+CUST0475,CV Mandala Tbk,Mini Market,Sumatera Utara,Medan,2025-01-12
+CUST0476,Perum Firmansyah,Supermarket,DKI Jakarta,Jakarta Barat,2024-03-15
+CUST0477,PT Ardianto,Online Reseller,Jawa Barat,Cirebon,2026-03-02
+CUST0478,PT Maryadi Anggriawan,Retail Store,Jawa Timur,Sidoarjo,2024-11-20
+CUST0479,UD Halim Safitri Tbk,Retail Store,Jawa Timur,Kediri,2024-04-22
+CUST0480,PT Nasyidah,Supermarket,Jawa Barat,Cirebon,2025-08-17
+CUST0481,PT Nuraini,Mini Market,Jawa Barat,Cirebon,2025-04-22
+CUST0482,PT Mardhiyah Tbk,Retail Store,Jawa Tengah,Tegal,2025-10-25
+CUST0483,PT Kuswoyo Novitasari,Retail Store,Jawa Tengah,Tegal,2026-01-25
+CUST0484,Perum Novitasari Ramadan,Retail Store,Banten,Tangerang,2024-02-06
+CUST0485,PD Hutapea Tbk,Mini Market,DKI Jakarta,Jakarta Barat,2026-02-04
+CUST0486,Perum Prasasta Prasetyo Tbk,Online Reseller,DKI Jakarta,Jakarta Barat,2026-07-12
+CUST0487,PT Iswahyudi,Retail Store,Banten,Serang,2025-09-14
+CUST0488,Perum Kusmawati Hakim (Persero) Tbk,Retail Store,Jawa Barat,Bekasi,2024-11-12
+CUST0489,PD Fujiati,Retail Store,DKI Jakarta,Jakarta Timur,2025-10-04
+CUST0490,Perum Kuswoyo (Persero) Tbk,Mini Market,Jawa Timur,Kediri,2025-08-02
+CUST0491,UD Gunawan Hutagalung Tbk,Wholesaler,Jawa Tengah,Solo,2024-05-04
+CUST0492,CV Sihotang,Retail Store,Jawa Barat,Bogor,2026-05-07
+CUST0493,Perum Megantara Widodo,Mini Market,Banten,Serang,2023-09-13
+CUST0494,CV Pratiwi (Persero) Tbk,Mini Market,DKI Jakarta,Jakarta Pusat,2026-06-09
+CUST0495,Perum Sitompul Winarno (Persero) Tbk,Wholesaler,Jawa Tengah,Magelang,2025-05-08
+CUST0496,Perum Situmorang,Supermarket,Banten,Tangerang,2026-01-08
+CUST0497,CV Hutagalung Siregar Tbk,Mini Market,Jawa Tengah,Magelang,2023-10-24
+CUST0498,PT Usada Tbk,Retail Store,Jawa Timur,Sidoarjo,2026-07-22
+CUST0499,PD Pradana Tamba Tbk,Retail Store,Sulawesi Selatan,Parepare,2025-12-31
+CUST0500,PT Safitri Sihombing (Persero) Tbk,Mini Market,Bali,Denpasar,2024-12-11
