@@ -1,24 +1,24 @@
 # Retail Sales Analytics Project
 
-Proyek analisis data penjualan retail menggunakan Python, SQL, dan DuckDB.
+End-to-end analysis of retail sales data using Python and SQL to identify sales trends, product performance, customer behavior, and regional performance.
 
-## 📊 Overview
+##  Overview
 Menganalisis data penjualan retail sintetis (~50.000 transaksi) untuk menemukan business insights.
 
-## 🎯 Key Findings
+##  Key Findings
 1. Sembako menghasilkan revenue terbesar tapi margin terendah (6,89%)
 2. Diskon di atas 20% menyebabkan kerugian (margin -7,37%)
 3. Revenue terkonsentrasi di Jawa Barat & DKI Jakarta
 4. Top 2 customer menyumbang >Rp111 juta masing-masing
 5. 3 produk dengan demand menurun: Mie Instan Kuah, Air Mineral Galon, Biskuit Kaleng
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - Python
 - DuckDB
 - Pandas
 - SQL
 
-## 📁 Struktur Project
+##  Struktur Project
 ├── data/
 │ └── raw/
 │ ├── customers.csv
@@ -32,7 +32,7 @@ Menganalisis data penjualan retail sintetis (~50.000 transaksi) untuk menemukan 
 └── README.md
 
 
-## 🚀 Cara Menjalankan
+##  Cara Menjalankan
 
 ### Prerequisites
 ```bash
